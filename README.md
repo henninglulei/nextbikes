@@ -1,4 +1,5 @@
 # nextbikes
+In diesem Projekt wurden die Livedaten der nextbike API abgefragt und visualisiert.
 
 ## Datenbank
 Bei der Datenbank handelt es sich um eine sqlite3 Datenbank. 
